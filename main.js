@@ -3,7 +3,7 @@ function main()
     console.log("vk-cors-test");
     $.ajax
     ({
-        url: "https://app.radiant.capital",
+        url: "<Any URL INTENDED>",
         success: function(data) 
         {
             console.log(data);
